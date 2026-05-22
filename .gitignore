@@ -1,0 +1,13 @@
+# 1. Ignore absolutely everything by default
+*
+!*/
+
+# 2. Keep the gitignore file itself tracked
+!.gitignore
+
+# 3. CHOOSE WHAT TO SHOWCASE (Add your public files below with an exclamation mark !)
+!Data Analysis Practice/projects/Air-Quality Project.ipynb
+!Data Analysis Practice/projects/Predictive Maintenance Project.ipynb
+
+# Future folder you mentioned:
+!ml/**
